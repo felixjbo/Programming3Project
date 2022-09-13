@@ -1,0 +1,22 @@
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\bin\Debug\Negocios.exe.config
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\bin\Debug\Negocios.exe
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\bin\Debug\Negocios.pdb
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\bin\Debug\Acceso_de_Datos.dll
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\bin\Debug\Acceso_de_Datos.pdb
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.exe
+C:\Users\fabva\OneDrive\Documents\UAM\Programacion 03\Trabajo Final Progra\proyectonovacarshop\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\bin\Debug\Negocios.exe.config
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\bin\Debug\Negocios.exe
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\bin\Debug\Acceso_de_Datos.dll
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\bin\Debug\Acceso_de_Datos.pdb
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.exe
+C:\Users\Gerardo\Desktop\1\UAM\IV cuatrimestre\Programacion III\Proyecto\proyectonovacarshop\Negocios\obj\Debug\Negocios.pdb
